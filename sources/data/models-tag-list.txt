@@ -35,6 +35,7 @@ IN
 IS
 IT_Moderna
 IT_Trad
+LF
 MX
 NG_Modern
 NL
